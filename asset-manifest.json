@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MathsDepartmentEXMO/static/css/main.abd64e84.css",
+    "main.js": "/MathsDepartmentEXMO/static/js/main.3888cf1c.js",
+    "static/js/787.096e14df.chunk.js": "/MathsDepartmentEXMO/static/js/787.096e14df.chunk.js",
+    "index.html": "/MathsDepartmentEXMO/index.html",
+    "main.abd64e84.css.map": "/MathsDepartmentEXMO/static/css/main.abd64e84.css.map",
+    "main.3888cf1c.js.map": "/MathsDepartmentEXMO/static/js/main.3888cf1c.js.map",
+    "787.096e14df.chunk.js.map": "/MathsDepartmentEXMO/static/js/787.096e14df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.3888cf1c.js"
+  ]
+}
