@@ -5,20 +5,20 @@ import Aparatus from "./pages/Aparatus";
 import Simulation from "./pages/Simulation";
 import Competition from "./pages/Competition";
 import Robotics from "./pages/Robotics";
-
+import { HashRouter } from 'react-router-dom';
 
 function App() {
   return (
     <div className="App">
-      <Router>
+      <HashRouter>
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route exact path="/" element={<Home />} />
           <Route path = "/aparatus" element = {<Aparatus/>} />
           <Route path="/simulation" element = {<Simulation/>} />
           <Route path="/competition" element = {<Competition/>} />
           <Route path="/robotics" element = {<Robotics/>} /> 
         </Routes>
-      </Router>
+      </HashRouter>
     </div>
   );
 }

@@ -2,8 +2,6 @@ import React from "react";
 import { Button } from "@mui/material";
 import {Box,Container, Typography,Paper} from "@mui/material";
 import { BrowserRouter as Router, Route, Link,Switch, Routes} from 'react-router-dom';
-//import { useNavigate } from "react-router-dom";
-
 
 const serviceList = [
   {
